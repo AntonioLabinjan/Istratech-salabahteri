@@ -2,7 +2,7 @@
 
 ## O meni
 
-Student sam informatike s velikim interesom za umjetnu inteligenciju, posebno računalni vid (Computer Vision), distribuirane sustave i razvoj softvera. Najviše me motiviraju zanimljivi tehnički izazovi i zadaci u kojima mogu napraviti nešto konkretno s vidljivim rezultatima. Volim učiti nove tehnologije, istraživati kako stvari funkcioniraju "ispod haube" i stalno tražiti bolji način za rješavanje problema.
+Student sam informatike s velikim interesom za umjetnu inteligenciju, posebno računalni vid (Computer Vision), distribuirane sustave i razvoj softvera. Najviše me motiviraju zanimljivi tehnički izazovi i zadaci u kojima mogu napraviti nešto konkretno s vidljivim rezultatima. Volim učiti nove tehnologije, istraživati kako stvari funkcioniraju "ispod haube" i stalno tražiti bolji način za rješavanje problema. Trenutni razvijam vlastiti AI-based recognition projekt, čisto iz zabave.
 
 Izvan posla dosta vremena provodim u teretani, ovremeno pratim sport i volim graditi vlastite projekte i startup ideje.
 
@@ -18,7 +18,7 @@ Ako sam zapeo u nekom radu, moguće je da neću odgovoriti odmah, ali javit ću 
 
 ## Preferirani način rada
 
-Najproduktivniji sam kada mogu imati dulje periode neprekinutog fokusa s muzikom u ušima uz povremene kraće pauze.
+Najproduktivniji sam kada mogu imati dulje periode neprekinutog fokusa, idealno s muzikom u ušima, uz povremene kraće pauze.
 
 Volim imati jasno definiran cilj, razumjeti zašto nešto radimo i zatim probati samostalno pronaći najbolje rješenje. Cijenim iskren i realan feedback.
 
