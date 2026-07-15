@@ -1,3 +1,5 @@
+DASHBOARD: (.venv) PS C:\Users\Privremeni\PycharmProjects\custom-vision-nets> optuna-dashboard sqlite:///optuna_studies.db
+
 Dobrodošao na **Optuna Express Crash Course**! Ako ti je dosta ručnog isprobavanja parametara ili onog blesavog, sporog Grid Searcha koji troši struju i vrijeme, na pravom si mjestu.
 
 Optuna je trenutno zlatni standard za optimizaciju hiperparametara (HPO) u Pythonu. Brza je, nevjerojatno fleksibilna i donosi napredne matematičke algoritme upakirane u izuzetno jednostavan API.
